@@ -1,0 +1,19 @@
+
+.landing-page{
+    display:grid;
+    padding: 360px;
+    margin-top: 10px;
+background-image: url(https://asset-2.tstatic.net/style/foto/bank/images/pencuri-kembalikan-uang-driver-ojol-setelah-tahu-ia-anak-yatim.jpg);
+background-size: cover;
+color: aliceblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-content{
+    display: flex;
+    flex-direction: column;
+justify-content: beetwen;
+    align-items: center;
+    text-align: center;
+   height: 50vh;
+}
